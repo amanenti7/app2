@@ -20,10 +20,16 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.a.manenti.snack0b0c86451deb4cce84b4a7d58c382ab8"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "21a1c6b8-0676-46b1-951d-20b2613fcc84"
+      }
     }
   }
 }
